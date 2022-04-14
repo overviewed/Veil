@@ -7,4 +7,4 @@ if aiohttp doesnt install try using the
 `aiohttp 3.7.4.post0` version 
 if this doesnt work idk what to tell you
 
-credits to avale and facade for giing me the idea to do this 
+credits to avale and facade for giving me the idea to do this 
